@@ -45,14 +45,14 @@ Guess Me is a guessing game written in c++ which uses binary search to guess the
 
 ### Awards & Certificates
 
-> 1. [**Google Codejam Qualifications Round 2019**](https://drive.google.com/file/d/10b4xKj7g6gCHUQ3SQPhD0iG4I3AEfewC/view)
+> 1. [**Google Codejam Qualifications Round 2019**](https://drive.google.com/file/d/10b4xKj7g6gCHUQ3SQPhD0iG4I3AEfewC/view)<br>
 World Rank - 7561/35509
 India Rank - 969/12532
-> 2. [**Google Kickstart 2018 Round H**](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/0000000000050e00)
+> 2. [**Google Kickstart 2018 Round H**](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/0000000000050e00)<br>
 World Rank - 1713
-> 3. [**Codechef Snackdown 2019 round 1B**](https://www.codechef.com/certificates/public/cd6414a)
+> 3. [**Codechef Snackdown 2019 round 1B**](https://www.codechef.com/certificates/public/cd6414a)<br>
 World Rank - 3612/7893
-> 4. [**Hackerrank Problem Solving Certificate**](https://www.hackerrank.com/certificates/2421172a7e53)
+> 4. [**Hackerrank Problem Solving Certificate**](https://www.hackerrank.com/certificates/2421172a7e53)<br>
 Successfully completed problem solving assessment
 
 <br>
