@@ -33,6 +33,10 @@
 
 ### Projects
 
-> 1. Saas-Demo<br>
+> 1. **Saas-Demo**<br>
 This is a demo saas website that I am building by following a tutorial from the youtube channel Traversy Media
+>2. **TicTacToe**<br>
+A Tic Tac Toe game written in c++ by following object oriented paradigm
+> 3. **Guess Me**<br>
+Guess Me is a guessing game written in c++ which uses binary search to guess the number
 
