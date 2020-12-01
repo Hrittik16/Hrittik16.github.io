@@ -34,7 +34,7 @@
 ### Projects
 
 > 1. **Saas-Demo**<br>
-This is a demo saas website that I am building by following a tutorial from the youtube channel Traversy Media
+This is a demo saas website that I am building using HTML and CSS by following a tutorial from the youtube channel Traversy Media. You can check it out [here](https://hrittik16.github.io/Saas-Demo/) 
 >2. **TicTacToe**<br>
 A Tic Tac Toe game written in c++ by following object oriented paradigm
 > 3. **Guess Me**<br>
