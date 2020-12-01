@@ -46,7 +46,7 @@ Guess Me is a guessing game written in c++ which uses binary search to guess the
 ### Awards & Certificates
 
 > 1. [**Google Codejam Qualifications Round 2019**](https://drive.google.com/file/d/10b4xKj7g6gCHUQ3SQPhD0iG4I3AEfewC/view)<br>
-World Rank - 7561/35509
+World Rank - 7561/35509<br>
 India Rank - 969/12532
 > 2. [**Google Kickstart 2018 Round H**](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/0000000000050e00)<br>
 World Rank - 1713
