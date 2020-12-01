@@ -32,6 +32,6 @@
 
 ### Projects
 
-**1. Saas-Demo**
-- This is a demo saas website that I am building by following a tutorial from the youtube channel Traversy Media
+1. Saas-Demo
+This is a demo saas website that I am building by following a tutorial from the youtube channel Traversy Media
 
